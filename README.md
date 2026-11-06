@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Valentyn 👋
 
-<!--
-**huruvim/huruvim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Frontend Engineer | React & TypeScript**
 
-Here are some ideas to get you started:
+I build complex web applications with a focus on **interactive maps, data visualization, and scalable frontend architecture**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 What I specialize in
+
+- **Interactive Maps** — Mapbox GL, MapLibre, spatial data and drawing tools
+- **Frontend Architecture** — Microfrontends, reusable components, modular applications
+- **TypeScript** — Type-safe APIs, complex forms and application state
+- **Engineering Quality** — Testing, performance and maintainability
+
+### ⚡ Tech Stack
+
+`TypeScript` · `React` · `Mapbox GL` · `MapLibre` · `Redux` · `Vite` · `Jest`
+
+### 🔭 Currently exploring
+
+WebGL · Developer tooling · Advanced TypeScript patterns
+
+### 📫 Get in touch
+
+[Email](mailto:valentyn.333k@gmail.com)
